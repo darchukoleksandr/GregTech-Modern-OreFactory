@@ -1,0 +1,18 @@
+{
+  "block.gtceu.ore_factory": "Integrated Ore Factory",
+  "config.screen.gtof": "Gregtech Ore Factory",
+  "config.gtof.option.machines": "Machines",
+  "config.gtof.option.oreFactory": "Ore Factory",
+  "config.gtof.option.strictMode": "Strict mode",
+  "config.gtof.option.parallels": "Parallels",
+  "gtceu.ore_factory_1": "Macerate -> Ore Washer -> Thermal Centrifuge -> Macerate",
+  "gtceu.ore_factory_2": "Macerate -> Ore Washer -> Macerate -> Centrifuge",
+  "gtceu.ore_factory_3": "Macerate -> Macerate -> Centrifuge",
+  "gtceu.ore_factory_4": "Macerate -> Ore Washer -> Sifter",
+  "gtceu.ore_factory_5": "Macerate -> Chemical Bathing -> Macerate -> Centrifuge",
+  "gtceu.multiblock.ore_factory_descr_0": "It is OP. I mean ore processor.",
+  "gtceu.multiblock.ore_factory_descr_1": "Do all ore processing in one step.",
+  "gtceu.multiblock.ore_factory_descr_2": "Can process up to §f%d ores at a time.",
+  "gtceu.multiblock.ore_factory_descr_3": "Every ore costs 30EU/t, 2L lubricant, 2000L water.",
+  "gtceu.multiblock.ore_factory_descr_4": "Processing time is dependent on mode."
+}
